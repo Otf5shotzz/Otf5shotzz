@@ -9,7 +9,7 @@
 
 #  About Me!
 
-1. Im a lazy game dev who has become a blockbench modeler
+1. I used to be a game dev before I become a blockbench modeler
 2. I LOVE artic foxs
 3. I liked to be Called Otf ( O-T-F )
 
