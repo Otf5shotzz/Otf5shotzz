@@ -31,7 +31,7 @@
         <td align="right"><b>Glowing Mc</b> 🍒</td>
         <td>🪵 <b> Azelea</b></td>
       </tr>
-      <td Azalea MCPEDL link: https://mcpedl.com/azalea</b></td>
+     </tr>
     </tbody>
   </table>
 
