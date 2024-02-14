@@ -8,7 +8,7 @@
 
 ```                                                                                              ```
  <details>
-<summary><b># 3 Projects so far</b></summary>
+<summary><b># 2 Projects so far</b></summary>
 
 
 <table>
