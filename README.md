@@ -13,7 +13,7 @@
 ```                                                                                              ```
 #
 <details>
-<summary><b># 2 Projects so far</b></summary>
+<summary><b># My Projects so far</b></summary>
 
 
 <table>
