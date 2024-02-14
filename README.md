@@ -16,7 +16,11 @@
 
 ---
 
-#
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Otf5shotzz)](https://github.com/Otf5shotzz)
+[![Twitter Badge](https://img.shields.io/badge/-@Otf5shotzz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Otf5shotzz "Follow on Twitter")
+
+---
+
 <details>
 <summary><b># My Projects so far</b></summary>
 
