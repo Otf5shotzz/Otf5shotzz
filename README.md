@@ -49,6 +49,6 @@
 </details>
 
 ```                                                                 ```
-
+**My Stats**
 
 <img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=7" />
