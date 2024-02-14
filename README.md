@@ -46,7 +46,7 @@
      </tr>
     </tbody>
   </table>
-<summary></summary>
+</details>
 
 ```                                                                 ```
 
