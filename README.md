@@ -7,8 +7,10 @@
 <img alt="Discord" src="https://img.shields.io/discord/1097241650851479602?style=flat-square&label=Glowing%20Mc&labelColor=%23f6a0d3&color=%23f9c1e2">  <img alt="Discord" src="https://img.shields.io/discord/922867041029984316?style=flat-square&label=Azelea&labelColor=%23f6a0d3&color=%23f9c1e2">
 
 ```                                                                                              ```
-# 
-
+#  About Me!
+1. Im a lazy game dev who has become a blockbench modeler
+2. I LOVE artic foxs
+3. I liked to be Called Otf ( O-T-F )
 
 ```                                                                                              ```
 #
