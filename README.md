@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary><b># My Projects so far</b></summary>
+<summary><b>My Projects so far</b></summary>
 
 ---
 
