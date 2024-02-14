@@ -6,6 +6,7 @@
 
 <img alt="Discord" src="https://img.shields.io/discord/1097241650851479602?style=flat-square&label=Glowing%20Mc&labelColor=%23f6a0d3&color=%23f9c1e2">  <img alt="Discord" src="https://img.shields.io/discord/922867041029984316?style=flat-square&label=Azelea&labelColor=%23f6a0d3&color=%23f9c1e2">
 
+---
 
 #  About Me!
 
@@ -13,11 +14,13 @@
 2. I LOVE artic foxs
 3. I liked to be Called Otf ( O-T-F )
 
+---
 
 #
 <details>
 <summary><b># My Projects so far</b></summary>
 
+---
 
 <table>
     <thead>
@@ -33,7 +36,7 @@
   </table>
 
 
-```                                                                                              ```
+```                                                                 ```
 # 
 
 <img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=7" />
